@@ -16,4 +16,4 @@ In this project, a webapp is built to monitor the most recent GDP performance of
 * The Year-to-year GDP Growth Rate (in %) for the past 20 years.
 
 ## Source of Input Data:
-[World Bank Open Data](https://data.worldbank.org/)
+Input data is provided by / extracted from [World Bank Open Data](https://data.worldbank.org/) through API.
