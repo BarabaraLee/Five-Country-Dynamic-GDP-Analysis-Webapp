@@ -1,4 +1,4 @@
-# Five Country Dynamic GDP Analysis Webapp
+# Five-country Dynamic GDP Analysis Webapp
 
 ## Link to the Deployed Webapp 
 [Dynamic GDP Analysis](https://gdpdashboard.herokuapp.com/)
