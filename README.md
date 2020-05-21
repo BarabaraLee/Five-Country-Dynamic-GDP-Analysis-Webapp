@@ -1,6 +1,6 @@
 # Five Country Dynamic GDP Analysis Webapp
 
-[Link to the Deployed Webapp (Dynamic GDP Analysis)](https://gdpdashboard.herokuapp.com/)
+[The Deployed Webapp (Dynamic GDP Analysis)](https://gdpdashboard.herokuapp.com/) for this project.
 
 ## Project Motivation
 In this project, a webapp is built to monitor the most recent GDP performance of the following five countries:
