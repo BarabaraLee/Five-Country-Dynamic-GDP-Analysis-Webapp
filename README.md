@@ -1,6 +1,6 @@
-# Five-Country-Dynamic-GDP-Analysis-Webapp
+# Five Country Dynamic GDP Analysis Webapp
 
-<a href="URL: https://gdpdashboard.herokuapp.com/">URL of the Webapp</a>
+[URL of the Webapp](https://gdpdashboard.herokuapp.com/)
 
 ## Project Motivation
 In this project, a webapp is built to monitor the most recent GDP performance of the following five countries:
@@ -16,4 +16,4 @@ In this project, a webapp is built to monitor the most recent GDP performance of
 * The Year-to-year GDP Growth Rate (in %) for the past 20 years.
 
 ## Source of Input Data:
-<a rel="World Bank Open Data" href="https://data.worldbank.org/">
+[World Bank Open Data](https://data.worldbank.org/)
