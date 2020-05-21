@@ -98,7 +98,7 @@ def return_figures():
         )
 
     layout_three = dict(title = 'Year-to-year GDP Growth Rate',
-                xaxis = dict(title = 'country'),
+                xaxis = dict(title = 'Country'),
                 yaxis = dict(title = 'Year-to-year GDP Growth Rate (%)')
                        )
     
